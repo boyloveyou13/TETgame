@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e80ea3d171ac06e4fa4c7adae2496acf, type: 3}
+  m_Name: Questions
+  m_EditorClassIdentifier: 
+  questionsList:
+  - question: "\u0110\xE2y l\xE0 m\u1ED9t nghi l\u1EC5 phong t\u1EE5c d\xF9ng \u0111\u1EC3
+      ch\xE0o h\u1ECFi nhau v\xE0o nh\u1EEFng ng\xE0y t\u1EBFt."
+    answer: chuc tet
+    isTrue: 0
+  - question: "B\xE1nh ch\u01B0ng l\xE0m b\u1EB1ng g\u1EA1o g\xEC?"
+    answer: gao nep
+    isTrue: 0
+  - question: "Kho\u1EA3nh kh\u1EAFc chuy\u1EC3n giao t\u1EEB n\u0103m n\xE0y sang
+      n\u0103m kh\xE1c"
+    answer: giao thua
+    isTrue: 0
+  - question: "V\xE0o ng\xE0y m\xF9ng 1 t\u1EBFt, ng\u01B0\u1EDDi d\xE2n Vi\u1EC7t
+      Nam ki\xEAng k\u1EF5 l\xE0m g\xEC \u0111\u1EC3 c\u1EA3 n\u0103m lu\xF4n su\xF4n
+      s\u1EBB, an l\xE0nh"
+    answer: quet nha
+    isTrue: 0
+  - question: "V\u1ECB kh\xE1ch \u0111\u1EA7u ti\xEAn \u0111\u1EBFn nh\xE0 ch\xFAc
+      t\u1EBFt \u0111\u01B0\u1EE3c g\u1ECDi l\xE0 g\xEC?"
+    answer: nguoi xong nha
+    isTrue: 0
+  - question: "\u0110\xE2y l\xE0 ho\u1EA1t \u0111\u1ED9ng truy\u1EC1n th\u1ED1ng
+      mang l\u1EA1i s\u1EF1 may m\u1EAFn c\u1EE7a con v\u1EADt truy\u1EC1n thuy\u1EBFt
+      do v\u0169 c\xF4ng \u0111i\u1EC1u khi\u1EC3n"
+    answer: mua lan
+    isTrue: 0
+  - question: "B\xE1nh t\u01B0\u1EE3ng tr\u01B0ng cho \u0111\u1EA5t"
+    answer: banh giay
+    isTrue: 0
+  - question: "Ng\xE0y 23 th\xE1ng ch\u1EA1p h\xE0ng n\u0103m, ng\u01B0\u1EDDi d\xE2n
+      Vi\u1EC7t Nam c\xFAng cho \xF4ng T\xE1o \u0111\u1EC3 l\xE0m g\xEC?"
+    answer: ve troi
+    isTrue: 0
+  - question: "C\xE2u ch\xFAc th\xF4ng d\u1EE5ng nh\u1EA5t v\xE0o ng\xE0y T\u1EBFt
+      l\xE0 g\xEC"
+    answer: chuc mung nam moi
+    isTrue: 0
+  - question: "M\xE0u s\u1EAFc ph\u1ED5 bi\u1EBFn nh\u1EA5t trong nh\u1EEFng ng\xE0y
+      T\u1EBFt"
+    answer: mau do
+    isTrue: 0
+  - question: "Hoa mai c\xF3 m\xE0u g\xEC"
+    answer: mau vang
+    isTrue: 0
+  - question: "B\xE1nh g\xEC t\u01B0\u1EE3ng tr\u01B0ng cho ng\xE0y T\u1EBFt \u1EDF
+      Vi\u1EC7t Nam"
+    answer: banh chung
+    isTrue: 0
